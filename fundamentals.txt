@@ -1,0 +1,13 @@
+Fundamentals of Javascript
+
+1. How to declare variable using let const
+2. conditions
+  a. 6 basic condition: <, >, ===, !==, >=, <= 
+  b. multiple condition: &&, ||
+3. Array (declare, index, length, push, pop)
+4. Loop
+5. Function
+6. Object (access 3 ways)
+ a. student.name
+ b. student["name"]
+ c. const studentName = "name"; student[studentName]
